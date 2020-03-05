@@ -11,7 +11,7 @@ publishDir = "nooraizad.github.io"
   tag = "tags"
 
 [author]
-	name = "kimcc"
+	name = "nooraizad"
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
@@ -24,34 +24,16 @@ publishDir = "nooraizad.github.io"
 
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
-	email = "#"
-    facebook = "#"
-    twitter = "#"
-	instagram = "#"
-	tumblr = "#"
-	reddit = "#"
-	pinterest = "#"
-	youtube = "#"
-	weibo = "#"
-	vk = "#"
-	linkedin = "#"
+	email = "mailto:nooraizad57@gmail.com"
+    facebook = "https://https://www.facebook.com/nooraizadzailani/"
+    twitter = "https://www.twitter.com/nooraizad"
+	instagram = "https://https://www.instagram.com/nooraizad"
+	linkedin = "https://www.linkedin.com/in/muhammad-nooraizad-zailani/"
 
-	# Writing
-    medium = "#"
-	blogger = "#"
-	wordpress = "#"
 
-	# Creative & Visual
-    dribbble = "#"
-	behance = "#"
-	deviantart = "#"
-	flickr = "#"
 
 	# Programming
-    github = "#"
-	stackoverflow = "#"
-	gitlab = "#"
-	codepen = "#"
+    github = "https://github.com/nooraizad"
 
 
 
