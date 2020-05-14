@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nooraizad Zailani</title>
+    <link>https://nooraizad.github.io/</link>
+    <description>Recent content on Nooraizad Zailani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 15 May 2020 01:23:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts on Master of Data Science, University of Malaya</title>
+      <link>https://nooraizad.github.io/posts/post04/</link>
+      <pubDate>Fri, 15 May 2020 01:23:37 +0800</pubDate>
+      
+      <guid>https://nooraizad.github.io/posts/post04/</guid>
+      <description>I have completed my Master of Data Science at the University of Malaya (UM). I finished them in 2 years. It was one hell of a journey and a memory that I will cherish for the rest of my life. In this post, i would like to share my opinion on the course and whether it is worth recommending. In the first section of this post, I would be giving an overview of the program, and why did I choose to study data science.</description>
+    </item>
+    
+    <item>
+      <title>Of Faisal Tehrani, the Hardy Boys and the Dancing Men</title>
+      <link>https://nooraizad.github.io/posts/post03/</link>
+      <pubDate>Fri, 24 Apr 2020 13:52:21 +0800</pubDate>
+      
+      <guid>https://nooraizad.github.io/posts/post03/</guid>
+      <description>A good friend of mine, Dr Syameem Raub wrote a post about books that got him hooked on reading. In his post, he mentioned that when we were together in a boarding school, I lend him my The Da Vinci Code written by Dan Brown. He described how he got into reading after being impressed with the book&amp;rsquo;s storyline, structure, plot and the elements of surprises presented by the author. Indeed The Da Vinci Code is a well-written book.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Dashboard</title>
+      <link>https://nooraizad.github.io/posts/post02/</link>
+      <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
+      
+      <guid>https://nooraizad.github.io/posts/post02/</guid>
+      <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard can be access here. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://nooraizad.github.io/posts/post01/</link>
+      <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
+      
+      <guid>https://nooraizad.github.io/posts/post01/</guid>
+      <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking.</description>
+    </item>
+    
+  </channel>
+</rss>

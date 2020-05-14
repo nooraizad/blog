@@ -12,7 +12,7 @@ publishDir = "nooraizad.github.io"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "''A stunning documentary but no one else unfortunately saw''"
+  homeSubtitle = "A stunning documentary but no one else unfortunately saw"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
