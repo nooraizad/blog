@@ -1,0 +1,14 @@
+---
+title: "A New Eid al-Fitr"
+date: 2020-05-31T00:46:09+08:00
+draft: false
+
+---
+
+Today is 7th of Shawwal in the Islamic calendar. We, Muslims celebrated Eid al-Fitr a week ago after fasting for one month during the holy month of Ramadan. We celebrated this day as a symbol of victory. It is the day when we usually will pray at the mosque in the morning along with takbirs. Then we will visit our families, relatives and friends, having a feast while reminding ourselves of those unfortunate. Children will be given token sums of money known as 'Duit raya'. However, this year, Eid al-Fitr is different from the previous years. 
+
+During this time, the world is still struggling in the battle against Covid-19. It has been a difficult time for most of us. Lockdown and conditional movement are imposed, business is affected, and there is new normality in terms of social interaction with each other. Thus, the way we Muslims celebrate this festival will be different. We have expected this since the first day of Ramadan. This pandemic wouldn't be gone so quickly, would they? But, in this uncertain and horrible times, at least we have something to celebrate, and to clear our mind for a moment.
+
+Another reason why this year Eid al-Fitr will be different for my family and me is that this year we have a new family member. My daughter was born on 9th April 2020. She is the love of my life. She is everything. But when I looked back the day she was born, a feeling of sadness struck me. She came into this world knowing nothing, really looking forward to meeting her parents and families, but the situation is depressing and sad. I am not allowed to accompany her mother during the delivery operation, and relatives are not able to visit her. However, holding her in my arms, watching her sleep and listening to her tears and voices made me realised that life should be cherished and celebrated at every moment. Life is short, and we should always try to look forward and avoid living in sorrow. Life is more than that. 
+
+The next question would be, how will we celebrate Eid al-Fitr in 2021? Can we visit our relatives and parents? Will there be Ramadan buffet like we use to go? Do we need to use Zoom or another platform to connect and video call with each other? Do we need to organise an open house or gathering? You may say that 2021 won't come soon, but am pretty sure we have been thinking about this, about life after this pandemic. What a year 2020 has been, and we are only in the first half of the year. The crucial thing for us now is together; we fight Covid-19 and stay safe. I wish everyone the best, and my prayer goes to everyone to stay healthy and protect your beloved at all cost. 
